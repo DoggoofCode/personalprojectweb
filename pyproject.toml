@@ -1,0 +1,15 @@
+[project]
+name = "personalprojectweb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.49.1",
+    "keras>=3.11.3",
+    "pandas>=2.3.3",
+    "pandas-market-calendars>=5.1.1",
+    "plotly>=6.3.1",
+    "scikit-learn>=1.7.2",
+    "tensorflow>=2.20.0",
+]
